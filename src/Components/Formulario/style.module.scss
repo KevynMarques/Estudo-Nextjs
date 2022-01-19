@@ -1,0 +1,51 @@
+.Email {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: -20px;
+
+
+
+  input {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(59, 70, 89, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    width: 180px;
+    text-align: left;
+    height: 20px;
+    border-radius: 2px;
+    color: white;
+  }
+  
+  p {
+  margin-left: 0px;
+  font-size: 16px;
+  }
+}
+
+
+
+.Senha {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: 50px;
+  height: 50px;
+
+
+  input {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(59, 70, 89, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    width: 180px;
+    text-align: left;
+    height: 20px;
+    border-radius: 2px;
+    color: white;
+  }
+  
+  p {
+  margin-left: 0px;
+  font-size: 16px;
+  }
+}
